@@ -18,9 +18,9 @@ resume_contact_email:           "rafy.soomro@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+923058198387"
-resume_contact_address:         "Street 2 Model Town Qasimabad, Hyderabad."
+resume_contact_address:         "Street 2 Model Town Qasimabad, Hyderabad"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Street 2 Model Town Qasimabad, Hyderabad • +923058198387 • rafy.soomro@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am skilled in robust problem-solving skills and have
